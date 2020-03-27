@@ -4,7 +4,7 @@
 
 把pjax.js丢到服务器上，在footer.php中加入以下代码
 
-<script src="/wp-content/themes/Mokore-master/pjax.js"></script>
+<script src="路径/pjax.js"></script>
 
 这一条是引入js
 
